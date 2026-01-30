@@ -12,6 +12,7 @@
     box-sizing: border-box;
 }
 body{
+    background-color: var(--Grey-900);
     display: grid;
     place-items: center;
     font-family: 'Inter', sans-serif;
